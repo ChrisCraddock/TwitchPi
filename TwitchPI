@@ -9,7 +9,7 @@ HOST = "irc.chat.twitch.tv"  # the twitch irc server
 PORT = 6667  # always use port 6667
 NICK = ""  # twitch bot username, lowercase
 PASS = ""  # your twitch OAuth token
-CHAN = " "  # the channel you want to join
+CHAN = " "  # YOUR twitch user name/channel
 CHAN2 = "#" # the same as above but needed for some reason to get bot to also print chat (# is needed before the name)
 
 
